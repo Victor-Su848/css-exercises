@@ -1,0 +1,1 @@
+(()=>{"use strict";class t{constructor(t,e,n,i){this.title=t,this.description=e,this.dueDate=n,this.priority=i}}document.body.appendChild(function(){document.createElement("div").innerHTML=_.join(["Hello","webpack"]," ");const e=document.createElement("p");e.textContent="fuck";const n=new t("victor","gay","true","yes");return e.append(n.title),e}())})();
